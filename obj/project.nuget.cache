@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5d0opkBxDkd2orA43BSIS2WhoXT3sCUFeM7i/XUEguZ/c8/HmdTlK3qEgGnHKs+oXTNvhGDrdQkyGRbwx26yYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\RulesMicroservice\\RulesMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
